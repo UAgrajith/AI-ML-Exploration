@@ -1,3 +1,4 @@
+<img width="1366" height="768" alt="Screenshot (218)" src="https://github.com/user-attachments/assets/f560d860-8370-45d2-8a7e-3819a23379d8" />
 # AI/ML Exploration Platform
 
 This project uses TensorFlow, Keras, and OpenCV to build a handwritten digit recognition model.
@@ -24,3 +25,5 @@ Achieved ~95% accuracy on test data.
 ### Level 02
 - Built web app using Streamlit
 - Upload image and get prediction
+<img width="1366" height="768" alt="Screenshot (219)" src="https://github.com/user-attachments/assets/faf2d027-0fd1-4919-a694-e9a120d581dc" />
+<img width="1366" height="768" alt="Screenshot (218)" src="https://github.com/user-attachments/assets/2d99f289-c6a5-43d3-8b27-532892e6af55" />
