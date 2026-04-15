@@ -1,4 +1,3 @@
-<img width="1366" height="768" alt="Screenshot (218)" src="https://github.com/user-attachments/assets/f560d860-8370-45d2-8a7e-3819a23379d8" />
 # AI/ML Exploration Platform
 
 This project uses TensorFlow, Keras, and OpenCV to build a handwritten digit recognition model.
